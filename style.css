@@ -1,0 +1,76 @@
+body{
+
+   
+}
+
+
+.imglogo{
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
+    font-size: 18px;
+}
+
+.search{
+    background-color: beige;
+    text-align: center;
+    margin: auto;
+    width: 98%;
+}
+
+.card{
+    width: 80%;
+   margin: auto;
+
+}
+.searchbutton{
+    margin-top: 10px;
+    text-align: center;
+}
+ 
+.kutu1{
+    width: 30%;
+    height: 6%;
+    padding: 10px;
+    background-color:aquamarine ;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 2px;
+    float: left;
+    margin-right: 2px;
+}
+
+.kutu2{
+    width: 30%;
+    height: 6%;
+    padding: 7px;
+    background-color: aquamarine;
+    text-align: center;
+    margin-top: 2px;
+    margin-right: 2px;
+    font-size: 12px;
+    float: left;
+}
+
+.kutu3{
+   width: 34.3%;
+   height: 6%; 
+   padding: 2px;
+   background-color: aquamarine;
+   text-align: center;
+   margin-top: 2px;
+   font-size: 12px;
+   float: left;
+}
+
+.clear{
+    clear: left;
+}
+.footer{
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+
+}
